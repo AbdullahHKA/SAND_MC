@@ -22,5 +22,18 @@ It makes it easier to access official documents (laws, regulations, policies) an
 -  requirements.txt → Required Python libraries.
 - .env → (contains OpenAI API key)
 
+# Requirements 
+-langchain
+-langchain-community
+-langchain-openai
+-chromadb
+-tiktoken
+-python-dotenv
+-pypdf
+-arabic-reshaper
+-python-bidi
+-streamlit
+
+
   
 
